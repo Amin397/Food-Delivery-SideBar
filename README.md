@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # testdeliverysidebar
 
 A new Flutter application.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Food-Delivery-SideBar
+Flutter simple UI for Food Delivery
+>>>>>>> 306980b88597e41d190c8786f6da215e88ecb287
