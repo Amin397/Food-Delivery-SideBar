@@ -1,21 +1,10 @@
-<<<<<<< HEAD
-# testdeliverysidebar
 
 A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Food-Delivery-SideBar
 Flutter simple UI for Food Delivery
->>>>>>> 306980b88597e41d190c8786f6da215e88ecb287
+
+![Screenshot_1590925164](https://user-images.githubusercontent.com/51218670/83351634-08033200-a35b-11ea-9f29-6d9421f10da1.png)
+
+
+![Screenshot_1590925145](https://user-images.githubusercontent.com/51218670/83351646-22d5a680-a35b-11ea-88e6-f1e538f81455.png)
